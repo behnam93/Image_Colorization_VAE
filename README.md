@@ -3,7 +3,7 @@ Image colorization using Variational Autoencoders (VAE). Converts grayscale imag
 Image Colorization using Variational Autoencoders (VAE)
 
 This repository contains an implementation of an image colorization model using Variational Autoencoders (VAE). The goal of this project is to automatically colorize grayscale images by learning the underlying color distribution from a dataset of colored images. The VAE architecture is used to encode the grayscale input into a latent space and decode it into a full-color image.
-
+![image](Image_Colorization_VAE_IMAGE.png)
 Key Features:
 VAE-based Architecture: Leverages the power of Variational Autoencoders to learn a probabilistic latent space for image colorization.
 
